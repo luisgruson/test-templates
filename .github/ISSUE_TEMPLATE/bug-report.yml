@@ -15,10 +15,10 @@ body:
       id: version
       attributes:
           label: Version / Commit
-          description: Please include the release version or commit hash of kwil-db you are using. Can leave blank if unknown.
+          description: Please include the release version or commit hash of kwil-db you are using. Write `unknown` if you are unsure.
           placeholder: e.g. v0.1.0 or 1234567890abcdef
       validations:
-          required: false
+          required: true
     - type: input
       id: os
       attributes:
