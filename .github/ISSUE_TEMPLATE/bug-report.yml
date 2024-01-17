@@ -9,14 +9,16 @@ body:
               Thank you for taking the time to report an issue. This form is for reporting **bugs in kwil-db**.
 
               If you have a **question** or are unsure if you have found a bug, please ask on the [Discord server](https://discord.com/invite/HzRPZ59Kay).
+
+              When submitting logs, please submit them as text and not as a screenshot.
     - type: input
       id: version
       attributes:
           label: Version / Commit
-          description: Please include the release version or commit hash of kwil-db you are using.
+          description: Please include the release version or commit hash of kwil-db you are using. Can leave blank if unknown.
           placeholder: e.g. v0.1.0 or 1234567890abcdef
       validations:
-          required: true
+          required: false
     - type: input
       id: os
       attributes:
