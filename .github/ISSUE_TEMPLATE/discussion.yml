@@ -25,4 +25,3 @@ body:
           placeholder: e.g. I have been thinking a lot about how we handle signature verification...
       validations:
           required: true
-```
