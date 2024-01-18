@@ -10,9 +10,7 @@
 <!--- Why is this change required? What problem does it solve? -->
 
 ## How Has This Been Tested?
-<!--- Please describe in detail how you tested your changes. -->
-<!--- Include details of your testing environment, and the tests you ran to -->
-<!--- see how your change affects other areas of the code, etc. -->
+<!--- Please describe how you tested your changes. -->
 
 ## Types of changes
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
@@ -33,4 +31,4 @@
 - [ ] All new and existing tests passed.
 
 ## Additional Information:
-<!--- Anything else we should know when reviewing? -->
+<!--- Anything other relevant information? -->
