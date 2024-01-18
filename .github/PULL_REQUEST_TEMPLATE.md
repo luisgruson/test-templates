@@ -6,9 +6,6 @@
 ## Related Issue
 <!--- If this pull requests links to an issue, please link to it here: -->
 
-## Motivation and Context
-<!--- Why is this change required? What problem does it solve? -->
-
 ## How Has This Been Tested?
 <!--- Please describe how you tested your changes. -->
 
